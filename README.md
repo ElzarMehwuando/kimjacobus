@@ -1,4 +1,4 @@
-Hi! I’m Kim Jacobus, front-end developer based in Brussels.
+Hi! I’m Kim Jacobus, a front-end developer based in Brussels.
 
 - 👀 I’m interested in Web development, design, animation, illustration, garage rock and fromsoftware games.
 - 🌱 I’m currently learning React, Typescript and React Native.
