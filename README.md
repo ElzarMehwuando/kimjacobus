@@ -1,7 +1,7 @@
 Hi! I’m Kim Jacobus, a front-end developer based in Brussels.
 
 - 👀 I’m interested in Web development, design, animation, illustration, garage rock and fromsoftware games.
-- 🌱 I’m currently learning React, Typescript and React Native.
+- 🌱 I’m currently learning React, Typescript and React Native. Also GraphQL and NodeJS.
 - 💞️ I’m looking to collaborate on any project I can learn from!
 - 📫 How to reach me jacobus.kim@gmail.com
 
